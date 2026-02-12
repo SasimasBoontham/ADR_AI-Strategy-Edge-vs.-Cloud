@@ -1,0 +1,1 @@
+# ADR_AI-Strategy-Edge-vs.-Cloud
